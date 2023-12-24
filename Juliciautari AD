@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Writer</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2, h3 {
+            color: #333;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>Writer | Blogger | Creative</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Introduce yourself here. Share your passion for writing and any relevant background or experiences. Let your readers get to know you!</p>
+    </section>
+
+    <section>
+        <h2>Writing Portfolio</h2>
+        <p>Highlight some of your best works. You can include links to articles, essays, stories, or any other form of writing you want to showcase.</p>
+    </section>
+
+    <section>
+        <h2>Blog</h2>
+        <p>Share your thoughts, ideas, and updates. Consider adding a blog section where you can regularly post new content and engage with your audience.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved. | Connect with me on <a href="https://twitter.com/yourtwitter" target="_blank">Twitter</a> | Designed by Your Name</p>
+    </footer>
+
+</body>
+</html>
